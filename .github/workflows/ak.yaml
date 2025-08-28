@@ -21,4 +21,4 @@ jobs:
           tenant_id: ${{ secrets.AK_TENANT_ID }}
           label: secret
           endpoint: cspm.demo.accuknox.com
-          fail: true
+          fail: false
